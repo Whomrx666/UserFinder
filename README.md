@@ -1,4 +1,4 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/UserFinder/main/IMG_20210816_222842.jpga"/>
+<img width="99.9%" src="https://github.com/Whomrx666/UserFinder/blob/main/logo.png"/>
 
 <p align="center">
 <a href="mailto:developer.whomrx666@gmail.com"><img title="Report bug" src="https://img.shields.io/badge/email-developer.Whomrx666%40gmail.com-green?style=for-the-badge&logo=gmail"></a>
