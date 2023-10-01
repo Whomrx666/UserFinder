@@ -19,7 +19,7 @@
 
 **Find user in social and more informations!**
 
-> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/UserFinder/blob/main/LICENSE).
+> I am not responsible for your actions. By downloading software from this repository, you agree to the [license](https://github.com/Whomrx666/UserFinder/blob/main/LICENSE).
 
 
 ### How to Install
@@ -49,4 +49,3 @@ bash UserFinder.sh
   
 ## Supporters
 [![Stargazers repo roster for @Whomrx666/UserFinder](https://reporoster.com/stars/Whomrx666/UserFinder)](https://github.com/Whomrx666/UserFinder/stargazers)
-[![Forkers repo roster for @Whomrx666/UserFinder](https://reporoster.com/forks/Whomrx666/UserFinder)](https://github.com/Whomrx666/UserFinder/members)
