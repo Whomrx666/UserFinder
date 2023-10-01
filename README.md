@@ -40,7 +40,7 @@ bash UserFinder.sh
 ## Find Me 
 [![Github](https://img.shields.io/badge/TELEGRAM-Mr.X-orange?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)
 [![Github](https://img.shields.io/badge/GitHub-Mr.X-yellow?style=for-the-badge&logo=github)](https://github.com/Whomrx666)
-[![Github](https://img.shields.io/badge/Twitter-Mr.X-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Whomr_X)
+[![Github](https://img.shields.io/badge/Twitter-Mr.X-blue?style=for-the-badge&logo=twitter)](https://twitter.com/whomrx666)
   
   
 **If you want to donate, click on the button**
