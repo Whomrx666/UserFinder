@@ -45,7 +45,3 @@ bash UserFinder.sh
   
 **If you want to donate, click on the button**
 <a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-UserFinder-yellow?style=for-the-badge&logo=github"></a>
-
-  
-## Supporters
-[![Stargazers repo roster for @Whomrx666/UserFinder](https://reporoster.com/stars/Whomrx666/UserFinder)](https://github.com/Whomrx666/UserFinder/stargazers)
